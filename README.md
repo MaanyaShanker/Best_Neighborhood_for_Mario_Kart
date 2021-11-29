@@ -18,6 +18,6 @@ This gives the number of traffic signs on a street and in a neighborhood within 
 
 
 ## Abstract
-We decided that we would look at different datasets to determine which neighborhood would be the best to play real life Mario Kart in. We compiled data from traffic counts, traffic sign kinds and values, and also speed bump counts and distances throughout each neighborhood in order to quantify our work. After completeing our work and gathering it all together, we determined that Squirrel Hill South would be the best neighborhood to play real life Mario Kart. While it was only the best in one dataset, it ranked high in the other two sets.
+We decided that we would look at different datasets to determine which neighborhood would be the best to play real life Mario Kart in. We compiled data from traffic counts, traffic sign kinds and values, and also speed bump counts and distances throughout each neighborhood in order to quantify our work. After completing our work and gathering it all together, we determined that Squirrel Hill South would be the best neighborhood to play real life Mario Kart. While it was only the best in one dataset, it ranked high in the other two sets.
 
 ![luigi](https://media.giphy.com/media/xUOxeSmFd00VhzqHQY/giphy.gif)
