@@ -1,9 +1,9 @@
 # Best Neighborhood for Real Life Mario Kart
 
 ## Team Name and Members
-Matt
-Maanya
-Michael
+- Matt
+- Maanya
+- Michael
 
 ## Datasets Used
 
