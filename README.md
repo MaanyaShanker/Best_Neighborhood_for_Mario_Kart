@@ -1,6 +1,6 @@
 # Best Neighborhood for Real Life Mario Kart
 
-## Team 
+## Team Rainbow Road
 - Maanya Shanker - mas937@pitt.edu
 - Matthew Mell - mlm295@pitt.edu
 - Michael Hughes - mch100@pitt.edu
