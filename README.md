@@ -1,9 +1,9 @@
 # Best Neighborhood for Real Life Mario Kart
 
 ## Team Name and Members
-- Matt
-- Maanya
-- Michael
+- Maanya Shanker - mas937@pitt.edu
+- Matthew Mell - mlm295@pitt.edu
+- Michael Hughes - mch100@pitt.edu
 
 ## Datasets Used
 
