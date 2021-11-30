@@ -15,7 +15,7 @@ This gives estimate populations of each neighborhood from the 2015 American Comm
 **City of Pittsburgh Traffic Signs** - https://data.wprdc.org/datastore/dump/d078a6b5-83a3-4723-a3a9-5371cfe1cc0c  
 This gives the number of traffic signs on a street and in a neighborhood within the city of Pittsburgh.
 
-**City of Pittsburgh Speed Humps** - https://data.wprdc.org/datastore/dump/37b2ac41-ae8e-4de1-8405-157e05dc3640 
+**City of Pittsburgh Speed Humps** - https://data.wprdc.org/datastore/dump/37b2ac41-ae8e-4de1-8405-157e05dc3640   
 This gives the speed humps and their location within a neighboorhood in the city of Pittsburgh.
 
 
